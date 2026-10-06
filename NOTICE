@@ -1,0 +1,24 @@
+NOTICE
+
+本仓库主体（README、SKILL.md、references 除第三节外的内容、eval、scripts）以
+MIT 许可证发布（见 LICENSE）。其中部分思路与内容改编自以下 MIT 许可项目，按
+MIT 许可证要求保留其版权声明：
+
+- blader/humanizer — Copyright (c) 2025 Siqi Chen
+- op7418/Humanizer-zh — Copyright (c) 2026 歸藏
+- hardikpandya/stop-slop — Copyright (c) 2025 Hardik Pandya
+- Leonxlnx/taste-skill — Copyright (c) 2026 Leonxlnx
+- MrGeDiao/shuorenhua — Copyright (c) 2026 MrGeDiao
+- alchaincyf/nuwa-skill — Copyright (c) 2026 Huashu (花叔)
+- dongbeixiaohuo/writing-agent — Copyright (c) 2025 [Dante.sun@aliyun.com]
+
+例外：
+
+- references/phrases.md 第三节「检测基准词」摘录自 Hello-SimpleAI/HC3 的
+  indicating_words_zh_chatgpt.txt。该语料按上游声明以 CC BY-SA 4.0 发布
+  （上游许可证更严格者优先），故该节以 CC BY-SA 4.0 授权，不属于 MIT 部分：
+  https://creativecommons.org/licenses/by-sa/4.0/deed.zh
+
+其余参考项目（hylarucoder/ai-flavor-remover、
+OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL）未声明许可证
+（默认保留所有权利），本项目仅借鉴其思想与常见短语，未复制其原创表达。
